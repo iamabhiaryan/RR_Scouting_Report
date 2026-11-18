@@ -6,6 +6,7 @@ A data-driven cricket scouting and player evaluation system that identifies clut
 
 The project introduces a **Match Pressure Index (MPI)** to evaluate every delivery based on match context, then compares player performance in ordinary and high-pressure situations to identify valuable batters and bowlers.
 
+Live link :- https://rrscoutingreport-ej2ltklhscu5p2ukeau4e4.streamlit.app/
 ---
 
 ## 🎯 Project Overview
